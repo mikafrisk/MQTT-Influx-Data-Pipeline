@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT-Influx-Data-Pipeline", "MQTT-Influx-Data-Pipeline.csproj", "{9348C71B-51A7-421C-8FD5-17EC1EE0773D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9348C71B-51A7-421C-8FD5-17EC1EE0773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9348C71B-51A7-421C-8FD5-17EC1EE0773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9348C71B-51A7-421C-8FD5-17EC1EE0773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9348C71B-51A7-421C-8FD5-17EC1EE0773D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95CA39E5-5D73-4C25-BFBB-25B49942E973}
+	EndGlobalSection
+EndGlobal
